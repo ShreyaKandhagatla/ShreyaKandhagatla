@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-<br>🎓 Currently Persuing B.Tech 4th year CSE at **SR University**, CGPA: **9.7**<br>🔭 Intern at **Triyas Tech Solutions Pvt. Ltd.** & **NIT Warangal**<br>🧠 Actively working on **AI-powered apps** and **Web-development projects**<br>🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon <br>💬 Ask me about **Python, AWS, Databases,  Web Development**<br>📫 Reach me at **shreyakandhagatla27@gmail.com**
+<br>🎓 Currently persuing B.Tech 4th year CSE at **SR University**, CGPA: **9.7**<br>🔭 Intern at **Triyas Tech Solutions Pvt. Ltd.** & **NIT Warangal**<br>🧠 Actively working on **AI-powered apps** and **Web-development projects**<br>🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon <br>💬 Ask me about **Python, AWS, Databases,  Web Development**<br>📫 Reach me at **shreyakandhagatla27@gmail.com**
 
 
 ## 🌐 Socials:
