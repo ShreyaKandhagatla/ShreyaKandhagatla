@@ -1,4 +1,4 @@
-<h1 align="center">Hola! I'm Kandhagatla Shreya!</h1>
+<h1 align="center">Hola 👋 I'm Kandhagatla Shreya!!</h1>
 <h3 align="center">Web Developer | Cloud Intern | AI Enthusiast </h3>
 
 
