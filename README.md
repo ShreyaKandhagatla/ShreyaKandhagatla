@@ -12,7 +12,7 @@
 🔭 Intern @ **Triyas Tech Solutions Pvt. Ltd.** & **NIT Warangal**  
 🧠 Building **AI-powered apps + Web projects**  
 🏆 SIH Finalist | SRU Idea Conclave Winner  
-💬 Ask me about **Python, AWS, DBMS, Web Dev**  
+💬 Ask me about **Python, AIML, AWS, DBMS, Web Dev**  
 📫 **shreyakandhagatla27@gmail.com**
 
 ---
